@@ -39,5 +39,3 @@ The recipes in this book run on any Linux-based computer—from a Raspberry Pi t
 
 * [Swift 3 Protocol-Oriented Programming - Second Edition](https://www.packtpub.com/application-development/swift-3-protocol-oriented-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129948)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
